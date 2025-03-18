@@ -1,0 +1,44 @@
+C:\Users\gustavo.fernandes\Desktop\mover\bin\Debug\net8.0\mover.exe
+C:\Users\gustavo.fernandes\Desktop\mover\bin\Debug\net8.0\mover.deps.json
+C:\Users\gustavo.fernandes\Desktop\mover\bin\Debug\net8.0\mover.runtimeconfig.json
+C:\Users\gustavo.fernandes\Desktop\mover\bin\Debug\net8.0\mover.dll
+C:\Users\gustavo.fernandes\Desktop\mover\bin\Debug\net8.0\mover.pdb
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.AssemblyInfoInputs.cache
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.AssemblyInfo.cs
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.dll
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\refint\mover.dll
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.pdb
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\mover.genruntimeconfig.cache
+C:\Users\gustavo.fernandes\Desktop\mover\obj\Debug\net8.0\ref\mover.dll
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\bin\Debug\net8.0\mover.exe
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\bin\Debug\net8.0\mover.deps.json
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\bin\Debug\net8.0\mover.runtimeconfig.json
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\bin\Debug\net8.0\mover.dll
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\bin\Debug\net8.0\mover.pdb
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.AssemblyInfoInputs.cache
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.AssemblyInfo.cs
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.sourcelink.json
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.dll
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\refint\mover.dll
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.pdb
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\mover.genruntimeconfig.cache
+C:\Users\gustavo.fernandes\Desktop\arquivos\mover\obj\Debug\net8.0\ref\mover.dll
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\bin\Debug\net8.0\mover.exe
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\bin\Debug\net8.0\mover.deps.json
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\bin\Debug\net8.0\mover.runtimeconfig.json
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\bin\Debug\net8.0\mover.dll
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\bin\Debug\net8.0\mover.pdb
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.AssemblyInfoInputs.cache
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.AssemblyInfo.cs
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.csproj.CoreCompileInputs.cache
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.sourcelink.json
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.dll
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\refint\mover.dll
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.pdb
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\mover.genruntimeconfig.cache
+Z:\Desenvolvimento de Sistemas\Script renomeamento de arquivo\mover\obj\Debug\net8.0\ref\mover.dll
